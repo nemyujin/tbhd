@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  TBHD
+
+  Created by tbhd on 2023/11/15.
+  
+*/
+// Localizable (English)
+"현재 언어" = "Current Language";
+"한국어 (대한민국)" = "English (USA)";
+
+// Localizable (Korean)
+"현재 언어" = "현재 언어";
+"한국어 (대한민국)" = "한국어 (대한민국)";
