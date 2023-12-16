@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  TBHD
+//
+//  Created by tbhd on 2023/10/31.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+KAKAO_NATIVE_APP_KEY = 8d132854a6b3578a0cce95a51d83c512
